@@ -2,7 +2,7 @@
 
 算法与数据结构-综合提升 C++ 版	47/70
 
-Java 面向对象编程	07/31
+Java 面向对象编程	09/31
 
 数据结构与算法之美	26/56	00/07
 
@@ -114,29 +114,41 @@ C Primer Plus	10/17
 
 > Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking.
 
+> Everybody in this country should learn how to program a computer, because it teaches you how to think.
+
 
 
 #### Mixed
 
 > If you want to be a good programmer, you just program every day for two years, you will be an excellent programmer. If you want to be a world-class programmer, you can program every day for ten years, or you can program every day for two years and take an algorithms class.
 
-> Have no fear of perfection - you'll never reach it. 				—— Salvador Dalí
+> Have no fear of perfection - you'll never reach it.
+>
+> —— Salvador Dalí
 
 > Wars come and go, but my soldiers stay eternal.
 
-> After the night I burned all memory, my dream becomes transparent, as I trashed all yesterdays, my step becomes lighter.	—— Rabindranath Tagore
+> After the night I burned all memory, my dream becomes transparent, as I trashed all yesterdays, my step becomes lighter.
+>
+> —— Rabindranath Tagore
 
 > 有志者，事竟成，破釜沉舟，百二秦关终属楚。
 >
 > 苦心人，天不负，卧薪尝胆，三千越甲可吞吴。
 
 > 我是一文不值，狗屁不如，你呢，就是犹如狗屁，值得一闻。
+>
+> —— Stephen Chow
 
 > 手拿菜刀砍电线，一路火花带闪电；高楼大厦平地起，靠谁不如靠自己。
 >
 > 软中华,硬玉溪，头发越短越牛逼；骑着狼，放着羊，唱着山歌耍流氓。
 
 > Parting your soup is not a miracle. It's a magic trick. A single mom who's working two jobs and still finds time to take her kid to soccer practice. That's a miracle. A teenager who says no to drugs and yes to an education. That's a miracle. People want me to do everything for them. What they don't realize is they have the power. You want to see a miracle, son? Be the miracle.
+
+> If I have seen further than others, it is by standing upon the shoulders of giants.
+>
+> —— Isaac Newton
 
 
 
@@ -230,7 +242,7 @@ Loading
 
 Java 编程入门	Finished!
 
-Java 面向对象编程	07/31
+Java 面向对象编程	09/31
 
 Java 语言高级特性	00/38
 
