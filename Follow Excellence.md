@@ -1,16 +1,12 @@
 ## Priority queue
 
-算法与数据结构-综合提升 C++ 版	47/70
+离散数学及其应用
 
-Java 面向对象编程	09/31
-
-数据结构与算法之美	26/56	00/07
-
-（离散数学）
-
-Computational Structures	00/24
+数字逻辑（清华大学）
 
 微积分之屠龙宝刀	12/30
+
+Computational Structures	00/24
 
 C Primer Plus	10/17
 
@@ -84,7 +80,7 @@ C Primer Plus	10/17
 
 > You can get better, or you can get all gooey, and crotchety, old, pathetic, icky, gross. Not me. Not into it.
 
-> You don’t get off easy, you just get to finish faster!
+> You don't get off easy, you just get to finish faster!
 
 > The health care problem is not solved in the white house, its solved in YOUR HOUSE.
 
@@ -150,6 +146,29 @@ C Primer Plus	10/17
 >
 > —— Isaac Newton
 
+> He who knows best knows how little he knows.
+>
+> —— Thomas Jefferson
+
+> The goal of argument is not to be right, it is to get it right.
+
+> 学习分为四个阶段
+> 第一阶段一片迷茫，怀疑自己智商！
+> 第二阶段入门后欣喜异常，自信心爆表，征服星辰大海貌似指日可待！
+> 第三阶段需要掌握真功夫时倍感吃力， 意志动摇！
+> 第四阶段一座大桥横跨南北，天堑变通途！回头一望，往事如烟！
+
+> 你必须要很努力，才能看起来毫不费力。
+
+> - 你有一个思想，我有一个思想，我们交换后，一个人就有两个思想。
+> - If you can not explain it simply, you do not understand it well enough.
+
+> Talk is cheap. Show me the code.
+>
+> —— Linus Torvalds
+
+> Education is that which remains, if one has forgotten everything he learned in school.
+
 
 
 ## 算法与数据结构
@@ -160,7 +179,7 @@ C Primer Plus	10/17
 
 ### 数据结构与算法之美
 
-26/56
+33-34、36
 
 03/04
 
@@ -172,7 +191,7 @@ C Primer Plus	10/17
 
 ### 算法与数据结构-综合提升 C++ 版
 
-47/70
+Finished! 
 
 ### 编程珠玑
 
@@ -196,7 +215,27 @@ Loading...
 
 
 
-## 数据库原理
+## 数据库
+
+### 数据库开发
+
+（阿里云大学 Java 学习路线阶段 2）
+
+数据库及 SQL/MySQL 基础	00/22
+
+SQL 进阶及查询练习	00/25
+
+JDBC 数据库开发入门	00/15
+
+JDBC 数据库开发进阶	00/22
+
+### MySQL 实战 45 讲
+
+00/45
+
+### SQL 基础
+
+（阿里云大学数据库学习路线阶段 1）
 
 ### +
 
@@ -238,13 +277,15 @@ Loading
 
 ### Java
 
-#### Java 语言基础（阿里云大学）
+#### Java 语言基础
+
+（阿里云大学 Java 学习路线阶段 1）
 
 Java 编程入门	Finished!
 
-Java 面向对象编程	09/31
+Java 面向对象编程	Finished!
 
-Java 语言高级特性	00/38
+Java 语言高级特性	Finished!
 
 #### Java 入门
 
@@ -253,6 +294,10 @@ Java 语言高级特性	00/38
 第二季	0/6
 
 第三季	0/7
+
+#### 面试官系统精讲 Java 源码及大厂真题
+
+11/48
 
 #### +
 
@@ -277,6 +322,10 @@ Loading...
 #### 我的第一本 Python 基础入门书
 
 12/33
+
+#### 零基础学 Python
+
+00/71
 
 #### +
 
@@ -306,11 +355,29 @@ Finished!
 
 Finished!
 
+#### Single Variable Calculus
+
+01/35
+
+#### Multivariable Calculus
+
+00/35
+
 #### +
 
 
 
+### Differential Equations
+
+01/31
+
+
+
 ### 离散数学
+
+#### 离散数学及其应用
+
+00/13
 
 #### +
 
